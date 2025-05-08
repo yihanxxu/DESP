@@ -26,5 +26,5 @@ Change the path to CelebA like the following:
 To train on CelebA:
 
 ```bash
-python DESP_main.py
+python main.py
 ```
